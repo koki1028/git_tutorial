@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yspotintin",
+  "private_key_id": "ab6de3a028d2a33d26a0d8fdfa23ef05880baada",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtM1WMqTPM8nIu\nnPN4eOk1EjQcYAgb5dMzZ7jzBuOBKltmmxsPmo775BxJcs9z3c0ac8uf86DLQciL\nBJ5MEx/UjBuwnQIWg3ZJMU85JCVKno1kLEPIqxviYUfXjMaVRaZ/mC0Z+PnkGivo\nBP3LTco88LOAYKKqewcdYmr0f0GPLLoKrZLzf2T+SX4yLovPVdG8y2cpec73BLcw\nGnbugcdeTMSa4nyQ5Mu6DM1J+y7grIYUDxeVIBAJBaZ3jXDLyCxATxjv+34DK4bi\nkCbllakOMbaTKgL4nYPOPLe3WbjvrzRZZSjWe7yZDcXDMAftdovwhbUqXTH9GPhp\nHIPgPw47AgMBAAECggEAF6kwobOnwPLKCHYmiKmz6i0fc1TnJrCB5r7ftEuXntij\nfePokXwi1mR2PM5zare9QkTZZ3OH3tyQwfUSjv/51DaDvd/lHiA9c4hJ81ttwMDi\nPfISHILLn2R8xQSVSGUodrvaRXcO5Ety/hJYfYKWAzc6vmn1Lub5tNjyFY6g7ScM\nCmLXw93vYg0L3O6kCjT3GEU3Zl7btY0f0sFWUj2gWROe1G/jnBbItqsrkZeDivyr\nNf6WZafbR6xtn0JeJcD1g+JvLVodKg6m6MOTQ0NUnpSB66dnPm1gwn7oVCXZ/0ZD\ngLOSPdOn1i9p912NlIKYTVsNqYSeUK8Ah/+ISovGYQKBgQDvzQP4y2tGtRJ8xAos\nndksdlR1G0LI5TkrYJX9244CeFLPRIOyFR2rFD1Dp4lS2u+1WkY1eQm5Eeg/Z8Le\noasnTgKzpdliT9+VY3PRQFrRSlC7Q7zV8S0MXPcf5cxyNHp+iXBlnAKI0DnqsbFd\nBw5llHTrNVCzWHKM0HN8NVLc6wKBgQC45pG42JFhZV4RL58nfzuzVi6rf3esBBp7\nmfTuF4AIh/YD3IL9REQd1SL+/XwmPM2YHqQDwfPUMNqgr+NZoZM34F8fcO05O5u/\n39uu63fAPCtPqEIPNeo9+PzFDWS550LtfEKRYMrC5p13T508YiCHH1J/Ml/ZrVVh\nIYls8c3/8QKBgQC6eW/UQcM7KcWllgDfbyQZii7lHfzSIkZRr/sTfG8zBoRGv121\n1uvKRKPbf2WvM6diHEAqhuQDsaQr4jFMVOW2W9iIALlJ1Rjln3/JwcSdqa+b3/Hx\nYGmKiqR1fop8aMi0q4Xmzem+oEXZdrKYx8rvPQGqgjwuKuJxFAwqE4FLXwKBgHkM\ncdA68Ap8S3Yi4CYCdPo2bL1X6OfTk+bhZulMt0RehmAGyDa4r4N8WrnnB5Uc71gs\njyHqow+CoE7cd5HhZrkJCh1SV+vFK3UVQAQnIbHXcl9m/0BoAp9p10nGN/BBB57k\nX8w/Ot8YDXTjyUOT1km/5slhGEEw6hl51DdfooZxAoGBAK1yprIs2ecZKx6So8nR\nqYn42qewdMfh5CS2m6KCQ+vEVOu4WmR7uY+WzjgwlU6PNz23AYMwcnAezI0CnGcw\nOF6k1pQ3vlW0oc3u0CtApTbFpznFUQTg7OWxJX2OnWjgUmTOmMaCYnC3vbCTnxrI\ncHDdOOMQq7DOxNpuPrVhAClo\n-----END PRIVATE KEY-----\n",
+  "client_email": "kokisatonagoyaland@yspotintin.iam.gserviceaccount.com",
+  "client_id": "104510439359087134005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kokisatonagoyaland%40yspotintin.iam.gserviceaccount.com"
+}

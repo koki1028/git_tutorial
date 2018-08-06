@@ -1,0 +1,36 @@
+<resources>
+    <!-- アプリの表示名-->
+    <string name="app_name">My単語帳</string>
+
+    <!-- 各画面のレイアウトファイルで表示されるテキスト-->
+    <!-- Main-->
+    <string name="change_color">画面の背景色を変えたい場合は下の色をクリックしてください</string>
+    <!-- WordList-->
+    <string name="word_list">登録されている単語一覧</string>
+    <string name="word_list_instruction">修正はその単語の行をタップ、削除の場合は長押しして下さい</string>
+    <!-- Edit-->
+    <string name="edit_instruction">問題とこたえを入力して「登録」ボタンを押してください</string>
+    <string name="edit_question">問題</string>
+    <string name="edit_answer">こたえ</string>
+
+    <!-- ステータス-->
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+
+    <!-- :インテントで渡すキー-->
+    <string name="intent_key_status">intent_key_status</string>
+    <string name="intent_key_question">intent_key_question</string>
+    <string name="intent_key_answer">intent_key_answer</string>
+    <string name="intent_key_position">intent_key_position</string>
+
+    <!-- 単語帳データベースのフィールド-->
+    <string name="db_field_quesion">strQuestion</string>
+    <string name="db_field_answer">strAnswer</string>
+
+
+
+
+
+
+
+</resources>

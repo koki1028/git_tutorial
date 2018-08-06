@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 背景色の設定（赤・青・黄色・緑）-->
+    <!-- color01のような形式にしてあとから自由に変えられるように-->
+    <color name="color01">#faebd7</color>
+    <color name="color02">#000000</color>
+    <color name="color03">#ffd700</color>
+    <color name="color04">#bdb76b</color>
+    <color name="color05">#ffd700</color>
+    <color name="color06">#87ceeb</color>
+
+</resources>
